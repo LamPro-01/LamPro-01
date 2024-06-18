@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @BaoLam-10
-- 👀 I’m interested in money
+- 👋 Hi, I’m @BaoLam-01
+- 👀 I’m interested in mobile programming
 - 🌱 I’m currently learning programing
 - 💞️ I’m looking to collaborate on to learn
 - 📫 How to reach me: lamdinh00689@gmail.com
