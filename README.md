@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile programming
 - 🌱 I’m currently learning programing
 - 💞️ I’m looking to collaborate on to learn
-- 📫 How to reach me: lamdinh00689@gmail.com
+- 📫 How to reach me: lampro2268@gmail.com
 
 <!---
 BaoLam-10/BaoLam-10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
